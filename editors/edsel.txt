@@ -1,1 +1,1 @@
-This is the new version of edsel!
+This is the *revision* of the new version of edsel!
